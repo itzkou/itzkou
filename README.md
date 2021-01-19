@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cutt.ly/mjOUV9j](https://cutt.ly/mjOUV9j)
 
-- 📝 I regularly write articles on [My Twitter account](My Twitter account)
+- 📝 I regularly write articles on [https://twitter.com/itzkouu](https://twitter.com/itzkouu)
 
 - 💬 Ask me about **Android, Django for Web**
 
