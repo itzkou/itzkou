@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzkou" alt="itzkou" /></a> </p>
 
 
-- 🔭 I’m currently working on [SeekMake](https://www.behance.net/gallery/108579769/SeekMake)
+- 🔭 I’m currently working on [Fisaa](https://www.behance.net/gallery/119496593/Fisaa)
 
 - 🌱 I’m currently learning **Backend engineering with Python**
 
