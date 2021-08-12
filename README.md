@@ -6,25 +6,25 @@
 
 - 🔭 I’m currently working on [Fisaa](https://www.behance.net/gallery/119496593/Fisaa)
 
-- 🌱 I’m currently learning **Backend engineering with Python**
+- 🌱 I’m currently learning **Backend engineering with Javasript**
 
 - 🤝 I’m looking for help with **Backend engineering with AI**
 
 - 👨‍💻 All of my projects are available at [https://cutt.ly/mjOUV9j](https://cutt.ly/mjOUV9j)
 
-- 📝 I regularly write articles on [https://twitter.com/itzkouu](https://twitter.com/itzkouu)
+- 📝 I regularly write articles on [https://twitter.com/itzkouu](https://twitter.com/itzdevkou)
 
 - 💬 Ask me about **Android, Django for Web**
 
-- 📫 How to reach me **koutheir.elbehi@etudiant-isi.utm.tn**
+- 📫 How to reach me **elbehi.koutheir@gmail.com*
 
-- 📄 Know about my experiences [https://cutt.ly/qjOU2AS](https://cutt.ly/qjOU2AS)
+- 📄 Know about my experiences [https://cutt.ly/qjOU2AS](https://cutt.ly/LQSBHFn)
 
-- ⚡ Fun fact **Snoop is my only cat and my inheritor 🐈**
+- ⚡ Fun fact **git pull a day keeps the conflicts away**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itzkouu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itzkouu" height="30" width="40" /></a>
+<a href="https://twitter.com/itzdevkou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itzkouu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elbehi-koutheir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elbehi-koutheir" height="30" width="40" /></a>
 <a href="https://fb.com/itzkouu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="itzkouu" height="30" width="40" /></a>
 <a href="https://www.behance.net/elbehikoutheir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="elbehikoutheir" height="30" width="40" /></a>
