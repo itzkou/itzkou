@@ -4,17 +4,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzkou" alt="itzkou" /></a> </p>
 
 
-- 🔭 I’m currently working on [Fisaa](https://www.behance.net/gallery/119496593/Fisaa)
+- 🔭 I’m currently working on IoT related projects
+- 🌱 I’m currently learning **Backend engineering/advanced android programming**
 
-- 🌱 I’m currently learning **Backend engineering with Javasript**
-
-- 🤝 I’m looking for help with **Backend engineering with AI**
+- 🤝 I’m looking for help with **MERN/MEVN stack**
 
 - 👨‍💻 All of my projects are available at [https://cutt.ly/mjOUV9j](https://cutt.ly/mjOUV9j)
 
-- 📝 I regularly write articles on [https://twitter.com/itzkouu](https://twitter.com/itzdevkou)
-
-- 💬 Ask me about **Android, Django for Web**
+- 💬 Ask me about **Android, Node.js**
 
 - 📫 How to reach me **elbehi.koutheir@gmail.com*
 
@@ -24,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itzdevkou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itzkouu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elbehi-koutheir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elbehi-koutheir" height="30" width="40" /></a>
 <a href="https://fb.com/itzkouu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="itzkouu" height="30" width="40" /></a>
 <a href="https://www.behance.net/elbehikoutheir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="elbehikoutheir" height="30" width="40" /></a>
