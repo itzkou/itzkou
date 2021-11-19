@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **elbehi.koutheir@gmail.com*
 
-- 📄 Know about my experiences [https://cutt.ly/qjOU2AS](https://cutt.ly/LQSBHFn)
-
 - ⚡ Fun fact **git pull a day keeps the conflicts away**
 
 <h3 align="left">Connect with me:</h3>
