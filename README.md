@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **MERN/MEVN stack**
 
-- 👨‍💻 All of my projects are available at (https://https://elbehikoutheir.netlify.com/)
+- 👨‍💻 All of my projects are available at (https://elbehikoutheir.netlify.com/)
 
 - 💬 Ask me about **Android, Node.js**
 
